@@ -1,0 +1,2 @@
+1) Comparar TesteBezier Fe700.wt com TesteBezier2 Fe700.wt
+Onde TesteBezier2 tem 'CALL BezierDDzzduz()' chamados 5x
