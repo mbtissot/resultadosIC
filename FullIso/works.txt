@@ -1,5 +1,0 @@
-Testar Isolado: 
-
-"No "          LdecayLT ("Yes" or "No ")
-"No "          LdecayST ("Yes" or "No ") -> Esse aqui que da problema
-"No "          LdecayTT ("Yes" or "No ")
