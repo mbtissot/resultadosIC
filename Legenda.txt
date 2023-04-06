@@ -1,0 +1,5 @@
+Teste: Aproximação no D1. Limitador no IL 10%. uf8-06. ub6-04
+Teste2: Aproximação no D1. Limitador no IL 50%. uf8-06. ub6-04
+Teste3: D1 Aprox. 50% uf8-06. ub6-06
+Teste4: 110%. Densidade uf8-06. ub6-06. Aqui tem Source
+Teste5: D1Real. 10%. uf8-06. ub6-04
