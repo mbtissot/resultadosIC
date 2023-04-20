@@ -1,0 +1,26 @@
+Decay zerado:
+Rcd = ZL(q) - ZL(q') - 0
+D1 = -(ZLq')'
+
+Decay normal:
+Rcd = Zl(q) - ZL(q') - ZS(qdif)
+D1 = -(ZLq')' - (ZSqdif)'
+
+LAproxS:
+Rcd = ZL(q) - ZL(q') - ZSaprox(qdif)
+D1 = D1 normal. -(ZLq')' - (ZSqdif)'
+
+LAproxSD1:
+Rcd = ZL(q) - ZL(q') - ZSaprox(qdif)
+D1 = Aproximação do D1 no ZL(q'). ZS ainda normal
+
+SaproxD1tambem:
+Rcd = ZL(q) - ZL(q') - ZSaprox(qdif)
+D1 = D1 com o ZL(q') normal. ZS aproximado (1+beta... = 1)
+Aqui, D1 é dividido por sqrt(qxdif² + qzdif²)
+
+SaproxD1tbMOD:
+Rcd = ZL(q) - ZL(q') - ZSaprox(qdif)
+D1 = D1 igual ao ultimo. Com diferença que tem +1 dentro da raíz (porque pensei que podia estar ocorrendo um 1/0).
+
+Olhar também o arquivo Legenda.f90 para ver exatamente as diferenças entre cada um, e a forma das aproximações
