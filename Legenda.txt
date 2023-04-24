@@ -23,4 +23,8 @@ SaproxD1tbMOD:
 Rcd = ZL(q) - ZL(q') - ZSaprox(qdif)
 D1 = D1 igual ao ultimo. Com diferença que tem +1 dentro da raíz (porque pensei que podia estar ocorrendo um 1/0).
 
+AmbosAprox:
+Rcd = ZLAprox(q) - ZLAprox(q') - ZSAprox(qdif)
+D1 = D1 com ZL(q') aproximado, e ZS(qdif) aproximado.
+
 Olhar também o arquivo Legenda.f90 para ver exatamente as diferenças entre cada um, e a forma das aproximações

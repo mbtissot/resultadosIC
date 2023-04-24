@@ -40,6 +40,12 @@
           + S1*S3*sigmapp*AA*SQRT(VRTeTs(m))*Qxdif &
           /SQRT(Qxdif**2+Qzdif**2 + 1) ! Modifiquei o + EpsMin para +1, porque pensei que podia estar ocorrendo algo ali
 
+!AmbosAprox:
+    Funcx_RcdLLS= ZLAprox(Qx,ABS(Qz))-Asp*S2*ZLAprox(Qxp,ABS(Qzp)) - Aspp*S3*ZSAprox(Qxdif,ABS(Qzdif))
+    D1 = -S2*sigmap*(1.5*VRTeTs(m)/SQRT(VRNeNs(m))*Qxp) &
+          + S1*S3*sigmapp*AA*SQRT(VRTeTs(m))*Qxdif &
+          /SQRT(Qxdif**2+Qzdif**2+EpsMin)
+
 !
 !
 ! Expressão para ZLAprox:
