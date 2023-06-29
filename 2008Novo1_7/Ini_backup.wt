@@ -1,0 +1,30 @@
+0	       IFlag
+12.E0          Ulim
+0.1E0          Ucrit
+1.E-4          Qxi
+0.5E0          Qxf
+1.E-4          Qzi
+0.5E0          Qzf
+"Auto  "       InitialLevel ("Choose" or "Auto  ")
+2.0E-4         Iw0   (For the case InitialLevel="Choose")
+2.0E-4         RatioNf
+5.E0           Uf
+1.0E0          RTfTe
+0.0E-4         RatioNb
+-4.E0          Ub
+1.0E0          RTbTe
+7.0E0          RTeTi 
+4.46647E-3     G (Plasma parameter)
+"Approx"       ADResCondition ("Exact " or "Approx")
+"yes"          Lemis ("yes" or "no ")
+"yes"          Ldecay ("yes" or "no ")
+"no "          Lscat ("yes" or "no ")
+"yes"          Semis ("yes" or "no ")
+"yes"          Sdecay ("yes" or "no ")
+"no "          Sscat ("yes" or "no ")
+"Approx"       LdecayResCondition ("Exact " or "Approx")
+"Approx"       SdecayResCondition ("Exact " or "Approx")
+"Adi3p"        AdiRoutine ("Adi3p" or "Adi5p")
+"ConstantDF"   BoundaryCondition ("ConstantF " or "ConstantDF")
+"Adapt"        RKStep ("Fixed" or "Adapt")
+
