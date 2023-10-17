@@ -1,7 +1,0 @@
-10.         DTau
-500         Nitera     ! Maximum iterations for Runge-Kutta
-500.        TauAdd     ! Final time: Tau2= Tau1+TauAdd
-
-! Parameter "Nitera" useful only in the case of "RKStep=Adapt". In the case
-! of "RKStep=Fixed" the parameter "Nitera" is re-evaluated inside the code.
-!
