@@ -1,9 +1,0 @@
-Tempos desta run: 
-29/10/2023 04:09:13 - Começando compilação
-29/10/2023 04:09:15 - Começando 1 execução
-29/10/2023 05:22:49 - Começando 2 execução
-29/10/2023 06:41:49 - Começando 3 execução
-29/10/2023 07:51:32 - Começando 4 execução
-29/10/2023 09:09:20 - Começando 5 execução
-29/10/2023 10:20:38 - Começando 6 execução
-29/10/2023 11:38:17 - Começando 7 execução
