@@ -1,4 +1,4 @@
-     it    Epart         Ewave         Etot          Ep/Et         Ew/Et
+     it      Tau          Epart         Ewave         Etot          Ep/Et         Ew/Et
      1  0.48100E+003  0.12721E+002  0.50105E+030  0.50105E+030  0.25389E-028  0.10000E+001
      2  0.48200E+003           NaN  0.74735E+030           NaN           NaN           NaN
      3  0.48300E+003           NaN  0.95960E+030           NaN           NaN           NaN
