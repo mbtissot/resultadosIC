@@ -20,8 +20,8 @@ if (ARG2 eq 'Fe'){
     }
 }
 
-set logscale z
-set format z "%g"
+set logscale y
+set format y "%g"
 #unset key
 p ARG1 u 1:2 w lines lt rgb "#1735FF"
 pause mouse close
